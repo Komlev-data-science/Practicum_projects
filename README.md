@@ -21,7 +21,7 @@
 
 **Аналитика и данные:**
 - 📊 **BI-системы**: Tableau, Metabase, DataLens
-- 📈 **Web Analytics**: Google Analytics, Amplitude
+- 📈 **Web Analytics**: GA4, Amplitude
 - 🗄 **Базы данных**: PostgreSQL, ClickHouse, MySQL
 - 📋 **Языки запросов**: SQL (продвинутый уровень)
 
